@@ -8,5 +8,5 @@ Through this portfolio, I aim to provide potential employers, clients, or collab
 Please take a moment to browse through my projects, read about my background, and delve into the various sections that highlight my skills, experience, and achievements.I am excited to share my journey and accomplishments with you.
 
 I invite you to reach out to me for further discussion, collaboration opportunities, or to learn more about my work. Thank you for visiting my self-created portfolio, and I look forward to connecting with you soon!
-Jaswinder Singh.
+Jaswinder Singh
 Backend Developer.
