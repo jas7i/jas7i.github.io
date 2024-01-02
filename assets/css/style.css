@@ -13198,7 +13198,7 @@ figcaption {
   right: 0;
   border-radius: 10px;
   transition: var(--transition);
-  height: 70%;
+  height: 80%;
 }
 @media only screen and (max-width: 479px) {
   .slide.slider-style-3 .slider-wrapper .background-image-area {
