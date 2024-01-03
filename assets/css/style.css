@@ -19710,3 +19710,14 @@ body.white-version .rn-btn-ulderline {
   color: var(--color-white) !important;
 }
 /*# sourceMappingURL=../maps/style.css.map */
+
+/* custom video css */
+p.description.myvideo {
+  display: flex;
+  justify-content: space-between;
+}
+video {
+  width: 10%;
+  border: solid;
+  border-radius: 20%;
+}
